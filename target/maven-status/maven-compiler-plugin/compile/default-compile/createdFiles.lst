@@ -1,0 +1,7 @@
+org\SpringWebDictionaryApp\appConfig\DispatcherServletConfiguration.class
+org\SpringWebDictionaryApp\DAO\RecordsMapper.class
+org\SpringWebDictionaryApp\handlers\RecordControllerHandler.class
+org\SpringWebDictionaryApp\appConfig\AppConfiguration.class
+org\SpringWebDictionaryApp\DAO\RecordsCRUD.class
+org\SpringWebDictionaryApp\controllers\RecordController.class
+org\SpringWebDictionaryApp\models\Record.class
